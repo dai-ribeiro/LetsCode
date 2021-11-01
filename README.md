@@ -1,2 +1,2 @@
 # LetsCode
-Exercícios do curso da Let's Code
+Exercícios do curso de Data Science da Let's Code
